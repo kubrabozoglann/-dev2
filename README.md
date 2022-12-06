@@ -1,2 +1,2 @@
-# -dev2
+# Ödev2
 patika.dev ödev2
